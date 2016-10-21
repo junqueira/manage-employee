@@ -1,0 +1,11 @@
+{% load staticfiles %}
+
+<html>
+<body ng-app="example.app.resource">
+<ol>
+    <li><a href="{% url "example" template_name='static' %}">Department</a></li>
+    <!--<li><a href="{% url "example" template_name='resource' %}">Angular Resource Example</a></li>-->
+    <li><a href="{% url "example" template_name='editor' %}">Employee</a></li>
+</ol>
+</body>
+</html>
