@@ -1,6 +1,6 @@
 # API with Employee Manager
 
-	Application to manage employees' information, such as name, e-mail and department. As any application written at it must have an API to allow integrations.
+Application to manage employees' information, such as name, e-mail and department. As any application written at it must have an API to allow integrations.
 
 Deliverables
 
