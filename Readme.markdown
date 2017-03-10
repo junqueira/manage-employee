@@ -1,5 +1,16 @@
 # API with Employee Manager
 
+	Application to manage employees' information, such as name, e-mail and department. As any application written at it must have an API to allow integrations.
+
+Deliverables
+
+"Employee Manager" app must have:
+
+● A Django Admin panel to manage employees' data
+
+● An API to list, add and remove employees
+
+
 ## Dependencies
 
 To setup and run the sample code, you're going to need `npm` from NodeJS available to install the frontend code.
